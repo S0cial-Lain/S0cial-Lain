@@ -25,7 +25,7 @@
         Scripts over GUI. Logs over lies.<br/><br/>
         Bash fights usually end late.<br/>
         Git remembers what I forget.<br/><br/>
-        Go Breaks like a glass fall<br>
+        Go Breaks like a falling glass<br>
         <i>“Present day. Present time.”</i>
       </p>
         <td width="60%" valign="top">
