@@ -57,6 +57,14 @@
         🧩 PoCs & security experiments<br>
     </td>
 </table>
+<table align="center">
+<td width="50%">
+    🎓 Certifications :<br>
+    - ✅ <strong>WEB-RTA</strong> (Web Red Team Analyst)<br>  
+    - ✅ <strong>AD-RTS</strong> (Active Directory Red Team Specialist)<br> 
+    - ✅ <strong>eJPTv2</strong> (eLearnSecurity Junior Penetration Tester v2)<br>
+  </td>
+</table>
 
 <p align="center"><b>⚡ Languages & Tools</b></p>
 
