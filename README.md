@@ -63,6 +63,7 @@
     - ✅ <strong>WEB-RTA</strong> (Web Red Team Analyst)<br>  
     - ✅ <strong>AD-RTS</strong> (Active Directory Red Team Specialist)<br> 
     - ✅ <strong>eJPTv2</strong> (eLearnSecurity Junior Penetration Tester v2)<br>
+    - ✅ <strong>CRTA</strong> (Certified Red Team Analyst)<br>
   </td>
 </table>
 
