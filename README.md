@@ -29,7 +29,7 @@ I believe cybersecurity is best learned by experimenting, collaborating, making 
 And yes, I break stuff for fun. 💜
 
 <p align="center">
-  <img src=OwlSec_Frenchies.png width="650px" height="625px">
+  <img src=OwlSec_Frenchies.png width="850px" height="625px">
 </p>
 
 ---
