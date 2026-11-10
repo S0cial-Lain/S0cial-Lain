@@ -121,7 +121,7 @@ The project explores:
 
 <p align="center">
   <img src="https://img.shields.io/badge/CRTA-CyberWarFare_Labs-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AD--RTS-Altered_Security-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AD--RTS-CyberWarFare_Labs-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WEB--RTA-CyberWarFare_Labs-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/eJPTv2-INE_Security-8B5CF6?style=for-the-badge" />
 </p>
