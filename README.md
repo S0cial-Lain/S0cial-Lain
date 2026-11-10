@@ -16,7 +16,7 @@
 
 ## 🌙 About Me
 <p align="center">
-  <img src=OwlSec_Frenchies.png>
+  <img src=OwlSec_Frenchies.png width="45px" height="35px">
 </p>
 
 Hello there HUMANS! Welcome to my little corner of the internet.
