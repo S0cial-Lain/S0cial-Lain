@@ -1,114 +1,136 @@
+🦉 Hey, I'm an OwlSec Hacker & Defender
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=S0cial_Lain&fontAlign=50&fontAlignY=40&desc=CTF%20%7C%20Pentest%20%7C%20Osint%20%7C%20Code&descAlign=50&descAlignY=60&color=0:05080f,50:0a1a2f,100:00ffe1&fontColor=e6edf3&descColor=9be7ff"
-    alt="Banner"
-    width="100%"
-  />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3BAA&height=180&section=header&text=Welcome%20to%20my%20Cyber%20Den&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p><p align="center">
+  <b>⚔️ Purple Teamer · 🏴‍☠️ Netrunner · 🦉 OwlSec · 🛡️ Security Enthusiast</b>
+</p><p align="center">
+  <i>"I break things to understand them, then I learn how to defend them."</i>
+</p>🌙 About Me
+Hey there, stranger! Welcome to my little corner of the internet.
+
+I'm a 24-year-old cybersecurity enthusiast, an OwlSec Hacker & Defender, and someone who genuinely enjoys breaking things just to understand how they work.
+
+I'm passionate about both sides of the battlefield:
+- 🔴 Red Team — Offensive security, penetration testing, exploitation and adversarial thinking.
+- 🔵 Blue Team — Defensive security, detection, investigation and hardening.
+- 🟣 Purple Team — Bringing both worlds together to build better security.
+I'm also a CTF Team Captain at OwlSec, where I help lead the team, share knowledge, solve challenges and mentor other cybersecurity enthusiasts.
+
+I believe cybersecurity is best learned by experimenting, collaborating, making mistakes and occasionally breaking an entire lab at 3 AM.
+
+And yes, I break stuff for fun. 💜
+
+🦉 OwlSec
+OwlSec isn't just a team name. It's a community where I get to learn, teach, compete and grow.
+
+What I do:
+- 🏴‍☠️ CTF Team Captain.
+- 🎓 Cybersecurity mentor.
+- 🤝 Community knowledge sharing.
+- 🧩 CTF challenges and collaborative problem-solving.
+- 🛡️ Offensive and defensive security learning.
+  
+## My goal is to help people become better hackers, better defenders and better problem-solvers.
+🟣 My Cybersecurity Playground
+
+## Domain	Interests
+🔴 Red Team	Pentesting, exploitation, reconnaissance
+🔵 Blue Team	Threat detection, investigation, hardening
+🟣 Purple Team	Adversary emulation, attack/defense collaboration
+🕵️ OSINT	Open-source intelligence and digital investigations
+🏴‍☠️ CTF	Challenge solving, writeups, team competitions
+🛡️ Security Research	Vulnerability research and experimentation
+🤖 AI Security	AI-powered cybersecurity projects and automation
+🐧 Linux	Terminal life, self-hosting and tinkering
+
+
+🐈 Featured Project — Miahou AI
+<p align="center">
+  <a href="https://miahouvanta.github.io/">
+    <img src="https://img.shields.io/badge/🐾_MIAHOU_AI-Visit_Project-8B5CF6?style=for-the-badge" />
+  </a>
+</p>Miahou AI is a project I built around autonomous AI and cybersecurity.
+
+A little digital creature with a serious interest in security research.
+
+The project explores:
+- 🤖 Autonomous AI assistance.
+- 🔍 OSINT and reconnaissance.
+- 🛡️ Cybersecurity tooling.
+- 🐳 Containerized environments.
+- 🧰 Security automation and research.
+- 📝 CTF writeups and knowledge sharing.
+- 💜 Open-source development.
+🌐 Website: https://miahouvanta.github.io/
+🧰 My Tech Arsenal
+My digital toolbox for building, breaking, automating and defending systems.
+
+💻 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>🐧 Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11_(Debloated)-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+</p>🛠️ Projects & Development
+- 🐈 Miahou AI — My own AI project.
+🏅 Certifications & Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/CRTA-CyberWarFare_Labs-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AD--RTS-Altered_Security-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WEB--RTA-CyberWarFare_Labs-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/eJPTv2-INE_Security-8B5CF6?style=for-the-badge" />
+</p>Community & Leadership
+- 🦉 OwlSec CTF Team Captain.
+- 🎓 Cybersecurity Mentor at OwlSec.
+- 🟣 Purple Team — Attack & Defense.
+🏴‍☠️ The Netrunner Philosophy
+  ┌──────────────────────────────────────┐
+  │                                      │
+  │   ACCESS.                            │
+  │   UNDERSTAND.                        │
+  │   EXPLORE.                           │
+  │   BREAK.                             │
+  │   LEARN.                             │
+  │                                      │
+  │   Repeat until you understand it.    │
+  │                                      │
+  └──────────────────────────────────────┘
+I love understanding how systems work under the hood.
+
+Sometimes that means reading documentation. Sometimes it means writing tools. Sometimes it means spending hours figuring out why something refuses to work.
+
+That's part of the fun.
+🌌 A Few Things About Me
+- 🦉 Proud member of OwlSec.
+- 🟣 Purple Teamer at heart.
+- 🏴‍☠️ Netrunner by mindset.
+- 🧩 CTFs are my playground.
+- 🐈 Building things with Miahou AI.
+- 💻 Terminal is home.
+- ☕ Powered by curiosity and questionable sleep schedules.
+- 💥 Breaking things is a learning methodology.
+📊 My GitHub Activity
+Replace YOUR_USERNAME below with your GitHub username.
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=S0cial_Lain.S0cial_Lain&style=flat&color=00ffe1&count_color=00ffe1&background=05080f" />
-  <img src="https://img.shields.io/badge/focus-pentest-00ffe1?style=flat&labelColor=05080f" />
-  <img src="https://img.shields.io/badge/osint-active-00ffe1?style=flat&labelColor=05080f" />
-  <img src="https://img.shields.io/badge/system-linux-00ffe1?style=flat&labelColor=05080f" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%" />
+</p>🤝 Let's Connect
+If you're into cybersecurity, CTFs, open-source projects, AI, Linux or just enjoy exploring how technology works, we'll probably get along.
 
----
-
-<table align="center">
- <tr>
-    <td width="50%" valign="top">
-      <p>
-        I analyze, break, automate, repeat.<br/>
-        OSINT when curiosity kicks in.<br/>
-        Pentest when things need to be proven.<br/>
-        Scripts over GUI. Logs over lies.<br/><br/>
-        Bash fights usually end late.<br/>
-        Git remembers what I forget.<br/><br/>
-        Go Breaks like a falling glass<br>
-        <i>“Present day. Present time.”</i>
-      </p>
-        <td width="60%" valign="top">
-      <p align="right" style="margin-top:0;">
-        <img
-          src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NjbWZoaDRzejZocjY5dG4yc3VvM3dseHo3ZHhveWhhdTZ0bjUwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif"
-          width="300"
-          alt="gif"
-        />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<table align="center">
-    <td width="55%" valign="top">
-      <p align="right" style="margin-top:0;">
-        <img
-          src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw0aW5ua3Iyd2pjOTViMXJpbW42N3prdThleGQwemJwZGZ2MGN5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif"
-          width="300"
-          alt="gif"
-        />
-    <td width="50%">
-    🧪 What you’ll find here :<br><br>
-        🔍 Pentest tools & automation<br>
-        🧠 Write-ups (CTF, labs, notes)<br>
-        🧩 PoCs & security experiments<br>
-    </td>
-</table>
-<table align="center">
-<td width="50%">
-    🎓 Certifications :<br>
-    - ✅ <strong>WEB-RTA</strong> (Web Red Team Analyst)<br>  
-    - ✅ <strong>AD-RTS</strong> (Active Directory Red Team Specialist)<br> 
-    - ✅ <strong>eJPTv2</strong> (eLearnSecurity Junior Penetration Tester v2)<br>
-    - ✅ <strong>CRTA</strong> (Certified Red Team Analyst)<br>
-  </td>
-</table>
-
-<p align="center"><b>⚡ Languages & Tools</b></p>
-
+Stay curious. Stay ethical. Keep hacking.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
+  <b>🦉 OwlSec · 🟣 Purple Team · 🏴‍☠️ Netrunner</b>
+  <br/>
+  <i>Made with curiosity, caffeine and a little bit of chaos. 💜</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3BAA&height=100&section=footer" width="100%" />
 </p>
-
----
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN6OW9rd2xkcG1iYzlkamRlc2R6OHdzdHdjNXN0MGpzd3JpNmJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMHyX4TbUD6vXh6AJ9/giphy.gif"
-        width="520"
-      />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <p><b>⚠️ Disclaimer</b></p>
-      <p>
-        Educational purposes only.<br/>
-        No illegal usage.<br/>
-        You break it — you own it.
-      </p>
-      <p><b>📡 Contact</b></p>
-      <p>
-        GitHub: <b>S0cial_Lain</b>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img
-    src="#"
-    alt="Baboo"
-  />
-</p>
-
-<p align="center"><b>✨ Thanks for scrolling ✨</b></p>
