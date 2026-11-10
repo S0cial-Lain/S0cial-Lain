@@ -20,9 +20,7 @@
 </p>
 
 Hello there HUMANS! Welcome to my little corner of the internet.
-
 I'm a **24-year-old cybersecurity enthusiast**, an OwlSec Hacker & Defender, and someone who genuinely enjoys breaking things just to understand how they work.
-
 I'm passionate about both sides of the battlefield:
 
 - 🔴 **Red Team** — Offensive security, penetration testing, exploitation and adversarial thinking.
@@ -30,9 +28,7 @@ I'm passionate about both sides of the battlefield:
 - 🟣 **Purple Team** — Bringing both worlds together to build better security.
 
 I'm also a **CTF Team Captain at OwlSec**, where I help lead the team, share knowledge, solve challenges and mentor other cybersecurity enthusiasts.
-
 I believe cybersecurity is best learned by experimenting, collaborating, making mistakes and occasionally breaking an entire lab at 3 AM.
-
 And yes, I break stuff for fun. 💜
 
 ---
@@ -76,24 +72,11 @@ My goal is to help people become better hackers, better defenders and better pro
 </p>
 
 **Miahou AI** is a project I built around autonomous AI and cybersecurity.
-
 A little digital creature with a serious interest in security research.
-
-The project explores:
-- 🤖 Autonomous AI assistance.
-- 🔍 OSINT and reconnaissance.
-- 🛡️ Cybersecurity tooling.
-- 🐳 Containerized environments.
-- 🧰 Security automation and research.
-- 📝 CTF writeups and knowledge sharing.
-- 💜 Open-source development.
-
-🌐 **Website:** https://miahouvanta.github.io/
 
 ---
 
 ## 🧰 My Tech Arsenal
-
 > My digital toolbox for building, breaking, automating and defending systems.
 
 ### 💻 Programming & Scripting
@@ -157,19 +140,6 @@ I love understanding how systems work under the hood.
 Sometimes that means reading documentation. Sometimes it means writing tools. Sometimes it means spending hours figuring out why something refuses to work.
 
 That's part of the fun.
-
----
-
-## 🌌 A Few Things About Me
-
-- 🦉 Proud member of OwlSec.
-- 🟣 Purple Teamer at heart.
-- 🏴‍☠️ Netrunner by mindset.
-- 🧩 CTFs are my playground.
-- 🐈 Building things with Miahou AI.
-- 💻 Terminal is home.
-- ☕ Powered by curiosity and questionable sleep schedules.
-- 💥 Breaking things is a learning methodology.
 
 ---
 
