@@ -15,9 +15,6 @@
 ---
 
 ## 🌙 About Me
-<p align="center">
-  <img src=OwlSec_Frenchies.png width="650px" height="625px">
-</p>
 
 Hello there HUMANS! Welcome to my little corner of the internet.
 I'm a **24-year-old cybersecurity enthusiast**, an OwlSec Hacker & Defender, and someone who genuinely enjoys breaking things just to understand how they work.
@@ -30,6 +27,10 @@ I'm passionate about both sides of the battlefield:
 I'm also a **CTF Team Captain at OwlSec**, where I help lead the team, share knowledge, solve challenges and mentor other cybersecurity enthusiasts.
 I believe cybersecurity is best learned by experimenting, collaborating, making mistakes and occasionally breaking an entire lab at 3 AM.
 And yes, I break stuff for fun. 💜
+
+<p align="center">
+  <img src=OwlSec_Frenchies.png width="650px" height="625px">
+</p>
 
 ---
 
