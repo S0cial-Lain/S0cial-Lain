@@ -15,8 +15,11 @@
 ---
 
 ## 🌙 About Me
+<p align="center">
+  <img src=OwlSec_Frenchies.png>
+</p>
 
-Hey there, stranger! Welcome to my little corner of the internet.
+Hello there HUMANS! Welcome to my little corner of the internet.
 
 I'm a **24-year-old cybersecurity enthusiast**, an OwlSec Hacker & Defender, and someone who genuinely enjoys breaking things just to understand how they work.
 
