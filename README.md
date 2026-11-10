@@ -1,7 +1,7 @@
 # 🦉 Hey, I'm an OwlSec Hacker & Defender
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3BAA&height=180&section=header&text=Welcome%20to%20my%20Cyber%20Den&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3BAA&height=180&section=header&text=Welcome%20to%20my%20Cyber%20Psychosis&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
