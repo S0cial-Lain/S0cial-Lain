@@ -49,21 +49,6 @@ My goal is to help people become better hackers, better defenders and better pro
 
 ---
 
-## 🟣 My Cybersecurity Playground
-
-| Domain | Interests |
-|---|---|
-| 🔴 Red Team | Pentesting, exploitation, reconnaissance |
-| 🔵 Blue Team | Threat detection, investigation, hardening |
-| 🟣 Purple Team | Adversary emulation, attack/defense collaboration |
-| 🕵️ OSINT | Open-source intelligence and digital investigations |
-| 🏴‍☠️ CTF | Challenge solving, writeups, team competitions |
-| 🛡️ Security Research | Vulnerability research and experimentation |
-| 🤖 AI Security | AI-powered cybersecurity projects and automation |
-| 🐧 Linux | Terminal life, self-hosting and tinkering |
-
----
-
 ## 🐈 Featured Project — Miahou AI
 
 <p align="center">
